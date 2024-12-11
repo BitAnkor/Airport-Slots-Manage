@@ -1,0 +1,1 @@
+__all__ = ["test_aeropuerto","test_lector","test_slot"]
